@@ -1,0 +1,20 @@
+Oct  2 10:15:01 server sshd[1234]: Failed password for root from 192.168.1.5 port 22 ssh2
+Oct  2 10:15:05 server sshd[1235]: Accepted password for admin from 10.0.0.4 port 22 ssh2
+Oct  2 10:15:12 server sshd[1236]: Failed password for root from 192.168.1.5 port 22 ssh2
+Oct  2 10:15:20 server sshd[1237]: Failed password for root from 192.168.1.5 port 22 ssh2
+Oct  2 10:16:12 server kernel: [12345.6] ERROR: Out of memory - killing process
+Oct  2 10:16:30 server systemd[1]: WARNING: unit nginx.service entered failed state
+Oct  2 10:16:45 server systemd[1]: WARNING: unit nginx.service scheduled for restart
+Oct  2 10:17:01 server sshd[1238]: Failed password for user from 10.0.0.9 port 22 ssh2
+Oct  2 10:17:15 server kernel: [12500.1] ERROR: Disk I/O error on /dev/sda
+Oct  2 10:17:30 server kernel: [12510.2] ERROR: Disk I/O error on /dev/sda
+Oct  2 10:17:45 server kernel: [12520.3] ERROR: Disk I/O error on /dev/sda
+Oct  2 10:18:00 server nginx[2000]: ERROR: upstream timeout to backend 10.0.0.10:8080
+Oct  2 10:18:15 server nginx[2000]: ERROR: upstream timeout to backend 10.0.0.10:8080
+Oct  2 10:18:30 server systemd[1]: WARNING: high memory usage detected
+Oct  2 10:18:45 server sshd[1239]: Failed password for admin from 192.168.1.100 port 22 ssh2
+Oct  2 10:19:00 server cron[3000]: WARNING: job missed schedule
+Oct  2 10:19:15 server kernel: [12600.4] ERROR: Out of memory - killing process
+Oct  2 10:19:30 server sshd[1240]: Accepted password for deploy from 10.0.0.20 port 22 ssh2
+Oct  2 10:19:45 server nginx[2001]: ERROR: 502 Bad Gateway
+Oct  2 10:20:00 server kernel: [12700.5] ERROR: Disk I/O error on /dev/sda

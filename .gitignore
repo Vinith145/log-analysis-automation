@@ -1,0 +1,17 @@
+# Logs (but keep .sample files)
+*.log
+!samples/*.log.sample
+
+# Output
+output/
+
+# Temp
+*.tmp
+*.bak
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
